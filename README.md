@@ -9,6 +9,7 @@ Steps to run:
 
 1: Start hardhat node
   npx hardhat node
+
 2: Run python file 
   src/test/test_beanstalk_hack.py 
 
